@@ -1,0 +1,6 @@
+--require @babel/register
+--recursive
+specs/**/*.js
+--colors
+
+--timeout 60*10000
