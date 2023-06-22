@@ -18,16 +18,14 @@
   "author": "Ramesh Rengasamy",
   "license": "ISC",
   "dependencies": {
-    "@babel/core": "^7.1.6",
-    "@babel/preset-env": "^7.1.6",
-    "@babel/register": "^7.0.0",
-    "chai": "^4.2.0",
-    "chalk": "^2.4.1",
-    "chromedriver": "^2.44.0",
-    "mocha": "^5.2.0",
-    "request": "^2.88.0",
-    "request-promise-native": "^1.0.5",
-    "selenium-webdriver": "^4.0.0-alpha.1",
-    "yargs": "^12.0.5"
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "@babel/register": "^7.22.5",
+    "chai": "^4.3.7",
+    "chalk": "^5.2.0",
+    "chromedriver": "^114.0.2",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.10.0",
+    "yargs": "^17.7.2"
   }
 }
